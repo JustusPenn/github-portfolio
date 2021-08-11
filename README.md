@@ -1,4 +1,4 @@
-# boolo
+# GitHub Portfolio Application
 
 ## Project setup
 ```
